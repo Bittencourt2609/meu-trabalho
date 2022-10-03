@@ -1,0 +1,38 @@
+@charset "uft-8";
+
+body{
+background-color: purple;
+color: white;
+font-family: Arial, Verdana, sans-serif;
+}
+
+h1{
+background-color: black;
+line-height: 200%;
+font-family: Georgia, 'Times New Roman', serif;
+
+}
+
+h2{
+background-color: black;
+font-family: Georgia, 'Times New Roman', serif;
+text-align: center;
+}
+
+p{
+font-size: .90em;
+text-indent: 3em;
+}
+
+p.fundo{
+background-color: white;
+}
+
+ul{
+font-weight: bold;
+color: white;
+}
+
+.cor_texto{
+color: black;
+}

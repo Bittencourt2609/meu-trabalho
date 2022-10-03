@@ -1,0 +1,17 @@
+@charset "uft-8";
+
+* {
+background-color: purple;
+color: white;
+}
+
+table *{
+background-color: black;
+text-align: center;
+width: 400px;
+}
+
+p{
+background-color: white;
+color: black;
+}
